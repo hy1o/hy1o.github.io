@@ -12,6 +12,13 @@ redirect_from:
 
 Links on the sidebar are working
 
+Research Interests
+======
+* Computer systems
+* Runtime resource management
+* Manycore programming
+* Machine learning
+
 Professional Services
 ======
 # Reviewer:
